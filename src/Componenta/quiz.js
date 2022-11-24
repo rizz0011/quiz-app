@@ -1,7 +1,6 @@
 import React, { useContext, useState } from "react";
 import { Context } from "../Contex/quizHolder";
 import {
-  Box,
   Stack,
   Typography,
   Button,
@@ -12,7 +11,6 @@ import {
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
 import ListItemButton from "@mui/material/ListItemButton";
-import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 
 function Quiz() {

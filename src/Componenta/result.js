@@ -1,7 +1,6 @@
 import React, { useContext } from "react";
 import { Context } from "../Contex/quizHolder";
 import {
-  Box,
   Stack,
   Typography,
   Button,
